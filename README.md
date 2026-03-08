@@ -1,6 +1,7 @@
 # Flazepad-Core
 
 Flazepad is a fair launch token platform that allows users to create and launch tokens using bonding curve mechanics.
+built on BNB Chain
 
 Features
 
