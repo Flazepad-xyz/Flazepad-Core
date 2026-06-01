@@ -7,6 +7,7 @@ Features
 
 • Fair launch model  
 • Fixed 1B token supply  
+• 5% Max Supply limit per wallet
 • Bonding curve trading  
 • Creator rewards  
 • Holder reward sharing  
